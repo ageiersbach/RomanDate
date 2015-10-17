@@ -4,6 +4,6 @@ Converts dates to [AUC](https://en.wikipedia.org/wiki/Ab_urbe_condita) and provi
 
 ##Usage
 
-  > roman_date:to_auc(now()).
-    converts the current date to AUC.
-
+  > roman_date:to_auc(date()).
+  
+  converts the current date to AUC.
